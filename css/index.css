@@ -83,21 +83,3 @@ p {
 .images1 img {
     margin: 0px auto;
 }
-
-.images5{
-    width: 10%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-
-    margin-bottom: 10px;
-
-}
-.images4{
-    width: 20%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-
-    margin-bottom: 50px;
-}
